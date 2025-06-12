@@ -11,4 +11,5 @@ public class Produto {
     private String marca;
     private Categoria categoria;
     private String vencimento;
+
 }
